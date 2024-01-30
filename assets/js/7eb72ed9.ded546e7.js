@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluis_ton=self.webpackChunkluis_ton||[]).push([[706],{9440:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/BuhoPracticas/blog/tags/docusaurus","allTagsPath":"/BuhoPracticas/blog/tags","count":4,"unlisted":false}')}}]);

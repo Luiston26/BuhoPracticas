@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluis_ton=self.webpackChunkluis_ton||[]).push([[584],{5584:e=>{e.exports=JSON.parse('{"permalink":"/BuhoPracticas/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

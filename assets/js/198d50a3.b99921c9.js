@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluis_ton=self.webpackChunkluis_ton||[]).push([[494],{3963:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/BuhoPracticas/blog/tags/facebook","allTagsPath":"/BuhoPracticas/blog/tags","count":1,"unlisted":false}')}}]);
